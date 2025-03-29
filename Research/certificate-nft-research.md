@@ -67,7 +67,7 @@ pub trait CertificateNFT {
 #[derive(Clone, Debug, Serialize, Deserialize)]
 pub struct CertificateMetadata {
     pub course_id: String,
-    pub completion_date: u64,
+    pub issued_date: u64,
     pub issuer: Address,
     pub metadata_uri: String,
     pub verification_proof: String,
@@ -142,7 +142,7 @@ pub struct CertificateMetadata {
    pub struct CourseCompletionEvent {
        student_address: Address,
        course_id: String,
-       completion_date: u64,
+       issued_date: u64,
        grade: Option<String>,
        metadata: CertificateMetadata,
    }

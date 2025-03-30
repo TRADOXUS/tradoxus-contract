@@ -1,0 +1,13 @@
+/home/blockyj/Documents/od-hack-contrib/tradoxus-contract/ipfs/target/debug/deps/liblog-95b4323f9c634056.rmeta: /home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/lib.rs /home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/macros.rs /home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/serde.rs /home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/kv/mod.rs /home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/kv/error.rs /home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/kv/key.rs /home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/kv/source.rs /home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/kv/value.rs /home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/__private_api.rs
+
+/home/blockyj/Documents/od-hack-contrib/tradoxus-contract/ipfs/target/debug/deps/log-95b4323f9c634056.d: /home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/lib.rs /home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/macros.rs /home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/serde.rs /home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/kv/mod.rs /home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/kv/error.rs /home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/kv/key.rs /home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/kv/source.rs /home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/kv/value.rs /home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/__private_api.rs
+
+/home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/lib.rs:
+/home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/macros.rs:
+/home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/serde.rs:
+/home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/kv/mod.rs:
+/home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/kv/error.rs:
+/home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/kv/key.rs:
+/home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/kv/source.rs:
+/home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/kv/value.rs:
+/home/blockyj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.27/src/__private_api.rs:

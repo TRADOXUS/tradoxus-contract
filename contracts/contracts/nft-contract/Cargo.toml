@@ -1,0 +1,21 @@
+[package]
+name = "nft-contract"
+version = "0.0.0"
+edition = "2021"
+publish = false
+
+[lib]
+crate-type = ["cdylib"]
+doctest = false
+
+[dependencies]
+soroban-sdk = { workspace = true }
+
+
+[dev-dependencies]
+soroban-sdk = { workspace = true, features = ["testutils"] }
+# p256 = { version = "0.13.2" }
+k256 = { version = "0.13", features = ["ecdsa", "sha256"] }
+rand = { version = "0.8.3" }
+hex = { version = "0.4.3" }
+sha3 = { version = "0.10.8" }

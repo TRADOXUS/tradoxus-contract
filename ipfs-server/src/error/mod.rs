@@ -1,7 +1,7 @@
 use axum::http::StatusCode;
 use thiserror::Error;
 
-use crate::contract::keypair::Secp256k1Error;
+use crate::core::keypair::Secp256k1Error;
 
 #[derive(Error, Debug)]
 pub enum Error {
